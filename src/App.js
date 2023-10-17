@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h3>REACT APPLICATION </h3>
-        <P>Created by: Kailash Software Engineer</P>
+        <p>Created by: Kailash Software Engineer</p>
       </header>
     </div>
   );
